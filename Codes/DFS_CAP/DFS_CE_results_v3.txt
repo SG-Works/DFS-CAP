@@ -1,0 +1,312 @@
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 12
+Frequency Threshold: 143
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  562
+Run time:  3.2545955181121826
+Number of closed frequent episodes is  558
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=1.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  644
+Run time:  3.8358826637268066
+Number of closed frequent episodes is  642
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=2.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  709
+Run time:  4.14566445350647
+Number of closed frequent episodes is  707
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=3.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  639
+Run time:  3.7574894428253174
+Number of closed frequent episodes is  636
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=4.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  706
+Run time:  4.069902658462524
+Number of closed frequent episodes is  704
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=5.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  727
+Run time:  4.367708444595337
+Number of closed frequent episodes is  725
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=6.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  661
+Run time:  3.86881685256958
+Number of closed frequent episodes is  658
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=7.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  796
+Run time:  4.7232747077941895
+Number of closed frequent episodes is  794
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=8.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  592
+Run time:  3.484689950942993
+Number of closed frequent episodes is  591
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=9.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  660
+Run time:  3.8815956115722656
+Number of closed frequent episodes is  656
+Average Run time:  3.9389620304107664
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 16
+Frequency Threshold: 138
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  2789
+Run time:  32.53509044647217
+Number of closed frequent episodes is  2776
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=1.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  2865
+Run time:  35.243258237838745
+Number of closed frequent episodes is  2848
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=2.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  2971
+Run time:  36.84264159202576
+Number of closed frequent episodes is  2939
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=3.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  3321
+Run time:  43.92429161071777
+Number of closed frequent episodes is  3306
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=4.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  3665
+Run time:  47.830554246902466
+Number of closed frequent episodes is  3645
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=5.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  4462
+Run time:  64.2480309009552
+Number of closed frequent episodes is  4406
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=6.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  3537
+Run time:  49.095582723617554
+Number of closed frequent episodes is  3525
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=7.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  3842
+Run time:  50.4618821144104
+Number of closed frequent episodes is  3820
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=8.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  3094
+Run time:  40.06870746612549
+Number of closed frequent episodes is  3072
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=9.txt
+Expiry time: 16
+Frequency Threshold: 138
+Number of frequent episodes is  2919
+Run time:  36.11148190498352
+Number of closed frequent episodes is  2901
+Average Run time:  43.63615212440491
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 20
+Frequency Threshold: 134
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  13872
+Run time:  589.865083694458
+Number of closed frequent episodes is  13530
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=1.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  7218
+Run time:  235.5118260383606
+Number of closed frequent episodes is  7080
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=2.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  16485
+Run time:  972.9557735919952
+Number of closed frequent episodes is  15895
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=3.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  12224
+Run time:  648.5773530006409
+Number of closed frequent episodes is  11974
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=4.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  17055
+Run time:  1048.5877799987793
+Number of closed frequent episodes is  16608
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=5.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  15411
+Run time:  915.6178660392761
+Number of closed frequent episodes is  14877
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=6.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  8311
+Run time:  280.02247405052185
+Number of closed frequent episodes is  8146
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=7.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  13752
+Run time:  524.163786649704
+Number of closed frequent episodes is  13479
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=8.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  16656
+Run time:  1018.4866466522217
+Number of closed frequent episodes is  16079
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=9.txt
+Expiry time: 20
+Frequency Threshold: 134
+Number of frequent episodes is  13976
+Run time:  684.8715505599976
+Number of closed frequent episodes is  13523
+Average Run time:  691.8660140275955
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  60051
+Run time:  5813.1646201610565
+Number of closed frequent episodes is  54988
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=1.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  75226
+Run time:  12572.29870390892
+Number of closed frequent episodes is  69299
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=2.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  63032
+Run time:  9756.114332914352
+Number of closed frequent episodes is  58641
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=3.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  154044
+Run time:  51303.96438765526
+Number of closed frequent episodes is  133949
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=4.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  118870
+Run time:  19773.829149246216
+Number of closed frequent episodes is  108420
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=5.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  62703
+Run time:  11417.989215612411
+Number of closed frequent episodes is  57168
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=6.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  86897
+Run time:  16052.118807077408
+Number of closed frequent episodes is  77559
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=7.txt
+Expiry time: 24
+Frequency Threshold: 130
+Number of frequent episodes is  90964
+Run time:  15932.849274158478
+Number of closed frequent episodes is  80314
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.03_p=0.02_eta=0.5_T=10000_evnt_strm_set=8.txt
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 12
+Frequency Threshold: 143
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 12
+Frequency Threshold: 143
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 16
+Frequency Threshold: 138
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 16
+Frequency Threshold: 138
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 20
+Frequency Threshold: 134
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 20
+Frequency Threshold: 134
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL8_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 28
+Frequency Threshold: 125
+Dataset: ./../../DataSynthetic2/DataspecsL8_Dataset_M=60_N=2_rho=0.02_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 28
+Frequency Threshold: 125
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 12
+Frequency Threshold: 143
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 12
+Frequency Threshold: 143
+Number of frequent episodes is  68
+Run time:  0.13379812240600586
+Number of closed frequent episodes is  50
+Dataset: ./../../DataSynthetic2/DataspecsL4_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=1.txt
+Expiry time: 12
+Frequency Threshold: 143
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 16
+Frequency Threshold: 138
+Dataset: ./../../DataSynthetic2/DataspecsL5_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 16
+Frequency Threshold: 138
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 20
+Frequency Threshold: 134
+Dataset: ./../../DataSynthetic2/DataspecsL6_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 20
+Frequency Threshold: 134
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL7_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 24
+Frequency Threshold: 130
+Dataset: ./../../DataSynthetic2/DataspecsL8_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm
+Expiry time: 28
+Frequency Threshold: 125
+Dataset: ./../../DataSynthetic2/DataspecsL8_Dataset_M=60_N=2_rho=0.01_p=0.02_eta=0.5_T=10000_evnt_strm_set=0.txt
+Expiry time: 28
+Frequency Threshold: 125
