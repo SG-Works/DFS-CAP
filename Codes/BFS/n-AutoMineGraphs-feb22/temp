@@ -1,0 +1,74 @@
+9c9
+< 		for(alpha* blockIter=mainIter->pNext;blockIter!=NULL && blockIter->pstBlockStart == mainIter->pstBlockStart;blockIter=blockIter->pNext)
+---
+> 		for(alpha* blockIter=mainIter;blockIter!=NULL && blockIter->pstBlockStart == mainIter->pstBlockStart;blockIter=blockIter->pNext)
+12,13c12,14
+< 			if(mainIter->paiEvents[l-1] == blockIter->paiEvents[l-1])
+< 				continue;
+---
+> 			//removed becos we want to combine the po's with same last event also.
+> 			//if(mainIter->paiEvents[l-1] == blockIter->paiEvents[l-1])
+> 			//	continue;
+14a16
+> 			// the following for loop performs te sub-episode check
+57,58c59,61
+<         if(addFlag == true && LmaxFlag == true)
+<         { 
+---
+> 				// Checking for Lmax and Nmax criteria only if addFlag == true and the check is needed.
+> 				if(true == addFlag && LmaxFlag == true) 
+>         {
+60c63
+<           || numMaxPath(posEpisodes[iTemp]->ppEventMatrix,l+1) > maxWidth)
+---
+> 				|| numMaxPath(posEpisodes[iTemp]->ppEventMatrix,l+1) > maxWidth)
+62d64
+< 
+64c66,68
+< 				if(true == addFlag)
+---
+> 
+> 
+>         if(true == addFlag)
+87a92,94
+> 	bool addFlagY0Y2 = true;
+> 	if (pstEpi1->paiEvents[iEventLen - 1] == pstEpi2->paiEvents[iEventLen - 1])
+> 		addFlagY0Y2 = false;
+90c97
+< 	if(episodeType == 1)
+---
+> 	if(episodeType == 1 && addFlagY0Y2 == true)
+94a102
+> 	// the following loop chks if there is a path from E(l-1) to E (l) or the other way
+109d116
+< 		pstTemp[0] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+111a119
+> 			pstTemp[0] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+114c122
+< 		else
+---
+> 		else if(addFlagY0Y2 == true)
+115a124
+> 			pstTemp[0] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+124c133
+< 		if(episodeType != 2)
+---
+> 		if(episodeType != 2 && addFlagY0Y2 == true)
+165,166c174,178
+< 						pstTemp[c+1] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+< 						pstTemp[c+1]->ppEventMatrix[iEventLen][iEventLen-1] = 1;
+---
+> 						if(addFlagY0Y2 == true)
+> 						{
+> 							pstTemp[c+1] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+> 							pstTemp[c+1]->ppEventMatrix[iEventLen][iEventLen-1] = 1;
+> 						}
+177,178c189,193
+< 						pstTemp[c] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+< 						pstTemp[c]->ppEventMatrix[iEventLen][iEventLen-1] = 1;
+---
+> 						if(addFlagY0Y2 == true)
+> 						{
+> 							pstTemp[c] = catEpisodes(pstEpi1,pstEpi2,iEventLen);
+> 							pstTemp[c]->ppEventMatrix[iEventLen][iEventLen-1] = 1;
+> 						}
