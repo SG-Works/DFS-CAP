@@ -1,0 +1,396 @@
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  127.30779790878296  seconds.
+Average Run time:  127.30779790878296
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  125.9057412147522  seconds.
+Average Run time:  125.9057412147522
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  332.5807695388794  seconds.
+Average Run time:  332.5807695388794
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  626.7976567745209  seconds.
+Average Run time:  626.7976567745209
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  1200.1143157482147  seconds.
+Average Run time:  1200.1143157482147
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  1270.3278295993805  seconds.
+Average Run time:  1270.3278295993805
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  126.90878462791443  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  56.99379110336304  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  73.60106134414673  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  84.31983017921448  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  116.10099053382874  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  127.73748636245728  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  50.84058403968811  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  124.1999306678772  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  116.3400948047638  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.6_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 17.000, freqThresh = 192
+
+Run Completed in  228.75895619392395  seconds.
+Average Run time:  110.58015098571778
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  154.71447706222534  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  242.07886719703674  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  289.74173879623413  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  348.55798387527466  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  151.43992161750793  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  230.79989767074585  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  222.2913875579834  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  269.6485962867737  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  225.49973320960999  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.55_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 19.000, freqThresh = 189
+
+Run Completed in  107.24026441574097  seconds.
+Average Run time:  224.20128676891326
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  370.6922972202301  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  186.1422562599182  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  214.6166741847992  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  338.7597846984863  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  437.26062750816345  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  278.41837668418884  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  191.68008279800415  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  230.3412172794342  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  352.5174677371979  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.5_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  272.21908473968506  seconds.
+Average Run time:  287.26478691101073
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  625.2139256000519  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  379.8193016052246  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  532.7791357040405  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  733.9602468013763  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  601.9199185371399  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  765.349508523941  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  706.971696138382  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  705.2583751678467  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  835.3001194000244  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.45_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 23.000, freqThresh = 180
+
+Run Completed in  497.89975666999817  seconds.
+Average Run time:  638.4471984148025
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  1193.733998298645  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  688.9926924705505  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  824.8265745639801  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  828.8038921356201  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  2114.816738843918  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  1024.4315340518951  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  654.9911632537842  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  819.9806396961212  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  1001.7707340717316  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.4_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 25.000, freqThresh = 175
+
+Run Completed in  624.139564037323  seconds.
+Average Run time:  977.6487531423569
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  1108.0270550251007  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  962.0841314792633  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  3174.9731850624084  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  1122.5669476985931  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  2945.882472753525  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  1301.6469445228577  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  2309.126998901367  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  974.3240694999695  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  2102.376574277878  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.37_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 28.000, freqThresh = 171
+
+Run Completed in  2747.966132879257  seconds.
+Average Run time:  1874.897451210022
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  4442.602774620056  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=1.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  5814.810053825378  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=2.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  2025.4752328395844  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=3.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  2310.034951686859  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=4.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  1682.8905279636383  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=5.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  1312.6727993488312  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=6.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  2316.498214483261  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=7.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  3324.613427877426  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=8.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  4594.6099400520325  seconds.
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.03_p=0.03_eta=0.35_T=10000_evnt_strm_set=9.txt
+Mining Parameters :  expTime = 29.000, freqThresh = 168
+
+Run Completed in  2372.5147891044617  seconds.
+Average Run time:  3019.672271180153

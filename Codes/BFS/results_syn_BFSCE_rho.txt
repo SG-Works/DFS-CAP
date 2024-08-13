@@ -1,0 +1,6 @@
+./Episodes  already exists.
+./../../DataSynthetic2/Dataspecs1_Dataset_M=60_N=2_rho=0.05_p=0.03_eta=0.5_T=10000_evnt_strm_set=0.txt
+Mining Parameters :  expTime = 20.000, freqThresh = 185
+
+Run Completed in  88727.86508870125  seconds.
+Average Run time:  88727.86508870125

@@ -1,0 +1,45 @@
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 5.000, freqThresh = 100
+
+Run Completed in  27085.159862041473  seconds.
+Average Run time:  27085.159862041473
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 6.000, freqThresh = 100
+
+Run Completed in  40209.31847381592  seconds.
+Average Run time:  40209.31847381592
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 8.000, freqThresh = 100
+
+Run Completed in  108845.7690680027  seconds.
+Average Run time:  108845.7690680027
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 150
+
+Run Completed in  87816.12854504585  seconds.
+Average Run time:  87816.12854504585
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 125
+
+Run Completed in  157206.2072455883  seconds.
+Average Run time:  157206.2072455883
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 80
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 100
+
+Run Completed in  292018.6448867321  seconds.
+Average Run time:  292018.6448867321
+./Episodes  already exists.
+./../../DataReal/address_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 80
+
+Run Completed in  602477.3394603729  seconds.
+Average Run time:  602477.3394603729

@@ -1,0 +1,9 @@
+7-June-2010:
+  SerialExtensionEmbedder:
+    1. CHanged 'eta' in serial Ext embedder to represent prob of next event.
+  n-Automata-miner:
+    1. Made the display of freqEpisodes transitively reduced.
+    2. Put and extra flag for enabling Lmax and Nmax (An entry in 'inputfile' is added.
+    LmaxFlag: true -> enables checking; any other value Lmax Nmax criteria is not checked.)
+    3. Made the sub-episode check 1-pass.
+

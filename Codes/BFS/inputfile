@@ -1,0 +1,7 @@
+NoTimeTicks: 10000
+maxLengthSize: 1000000000
+numMaxPaths: 1000000000
+maxEvents: 5638
+maxSize: 20
+parser: no
+episodeType: general

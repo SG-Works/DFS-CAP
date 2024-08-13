@@ -1,0 +1,73 @@
+==6255== Memcheck, a memory error detector.
+==6255== Copyright (C) 2002-2007, and GNU GPL'd, by Julian Seward et al.
+==6255== Using LibVEX rev 1732, a library for dynamic binary translation.
+==6255== Copyright (C) 2004-2007, and GNU GPL'd, by OpenWorks LLP.
+==6255== Using valgrind-3.2.3, a dynamic binary instrumentation framework.
+==6255== Copyright (C) 2000-2007, and GNU GPL'd, by Julian Seward et al.
+==6255== For more details, rerun with: -v
+==6255== 
+==6255== My PID = 6255, parent PID = 6254.  Prog and args are:
+==6255==    ./n-AutoMineGraphs-feb22/bin/n-graph-miner
+==6255==    ./datasets/Set1/stream-0.040-0.500-0.500-25-50e3-0
+==6255==    0
+==6255==    0.000
+==6255==    1.000
+==6255==    %s/freq-temp
+==6255== 
+==6255== Conditional jump or move depends on uninitialised value(s)
+==6255==    at 0x40062D7: strlen (mc_replace_strmem.c:246)
+==6255==    by 0x2A926F2: std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x8051F28: main (mainfile.cpp:74)
+==6255== 
+==6255== Syscall param write(buf) points to uninitialised byte(s)
+==6255==    at 0x27A23C3: __write_nocancel (in /lib/libc-2.7.so)
+==6255==    by 0x2741134: new_do_write (in /lib/libc-2.7.so)
+==6255==    by 0x274141E: _IO_do_write@@GLIBC_2.1 (in /lib/libc-2.7.so)
+==6255==    by 0x2741BF5: _IO_file_sync@@GLIBC_2.1 (in /lib/libc-2.7.so)
+==6255==    by 0x27367EB: fflush (in /lib/libc-2.7.so)
+==6255==    by 0x2A8F8FF: (within /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A914A1: std::ostream::flush() (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A9152C: std::basic_ostream<char, std::char_traits<char> >& std::flush<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A92F98: std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A9097E: std::ostream::operator<<(std::ostream& (*)(std::ostream&)) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x8051F38: main (mainfile.cpp:74)
+==6255==  Address 0x400903E is not stack'd, malloc'd or (recently) free'd
+==6255== 
+==6255== Conditional jump or move depends on uninitialised value(s)
+==6255==    at 0x804CA70: freqEpisodes::freqEpisodes(double, int, double, int, int, double, int, int, char*, std::string, int, bool, int, double) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x8051FE2: main (mainfile.cpp:75)
+==6255== 
+==6255== Conditional jump or move depends on uninitialised value(s)
+==6255==    at 0x40062D7: strlen (mc_replace_strmem.c:246)
+==6255==    by 0x2A926F2: std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x804D8B8: freqEpisodes::findFreqCandids(freqEpisodes::stEpisodeGel&) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x8050E7F: freqEpisodes::parser(std::string) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x8052099: main (mainfile.cpp:91)
+==6255== 
+==6255== Syscall param open(filename) points to uninitialised byte(s)
+==6255==    at 0x27A1B13: __open_nocancel (in /lib/libc-2.7.so)
+==6255==    by 0x2742159: _IO_file_fopen@@GLIBC_2.1 (in /lib/libc-2.7.so)
+==6255==    by 0x2736D5C: __fopen_internal (in /lib/libc-2.7.so)
+==6255==    by 0x27392CB: fopen64 (in /lib/libc-2.7.so)
+==6255==    by 0x2AC1414: std::__basic_file<char>::open(char const*, std::_Ios_Openmode, int) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A69C8D: std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x2A69EA5: std::basic_ifstream<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/libstdc++.so.6.0.8)
+==6255==    by 0x804D0F5: readfile::readfile(char*) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x804D8E0: freqEpisodes::findFreqCandids(freqEpisodes::stEpisodeGel&) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x8050E7F: freqEpisodes::parser(std::string) (in /home/avinash/C_files/PartialOrderFiles/MultipleEventTypesTimeTickData/n-AutoMineGraphs-feb22/bin/n-graph-miner)
+==6255==    by 0x8052099: main (mainfile.cpp:91)
+==6255==  Address 0xBEE33152 is on thread 1's stack
+==6255== 
+==6255== ERROR SUMMARY: 15 errors from 5 contexts (suppressed: 16 from 1)
+==6255== malloc/free: in use at exit: 21,157 bytes in 244 blocks.
+==6255== malloc/free: 286 allocs, 42 frees, 47,917 bytes allocated.
+==6255== For counts of detected errors, rerun with: -v
+==6255== searching for pointers to 244 not-freed blocks.
+==6255== checked 164,580 bytes.
+==6255== 
+==6255== LEAK SUMMARY:
+==6255==    definitely lost: 265 bytes in 17 blocks.
+==6255==      possibly lost: 136 bytes in 4 blocks.
+==6255==    still reachable: 20,756 bytes in 223 blocks.
+==6255==         suppressed: 0 bytes in 0 blocks.
+==6255== Rerun with --leak-check=full to see details of leaked memory.

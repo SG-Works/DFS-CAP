@@ -1,0 +1,48 @@
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 5.000, freqThresh = 30
+
+Run Completed in  7169.227208375931  seconds.
+Average Run time:  7169.227208375931
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 6.000, freqThresh = 30
+
+Run Completed in  10859.929961204529  seconds.
+Average Run time:  10859.929961204529
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 8.000, freqThresh = 30
+
+Run Completed in  23595.496797800064  seconds.
+Average Run time:  23595.496797800064
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 30
+
+Run Completed in  58798.19417333603  seconds.
+Average Run time:  58798.19417333603
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 12.000, freqThresh = 30
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 50
+
+Run Completed in  15008.019034147263  seconds.
+Average Run time:  15008.019034147263
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 40
+
+Run Completed in  25495.403928279877  seconds.
+Average Run time:  25495.403928279877
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 20
+
+Run Completed in  192989.22767305374  seconds.
+Average Run time:  192989.22767305374
+./Episodes  already exists.
+./../../DataReal/whale_numdata.txt
+Mining Parameters :  expTime = 10.000, freqThresh = 15
