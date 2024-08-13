@@ -1,0 +1,162 @@
+1,1,2,2,1,2:0>1,0>2,1>3,2>3,1>4,2>4,3>5,4>5
+{(0, 1), (1, 3), (4, 5), (1, 4), (2, 3), (2, 4), (0, 2), (3, 5)}
+3,4,5,3,4,5:0>1,0>2,1>3,1>4,2>5
+{(0, 1), (1, 3), (1, 4), (2, 5), (0, 2)}
+
+['1', '1', '2', '2', '1', '2']
+['1', '1', '2', '1', '2', '2']
+['1', '2', '1', '2', '1', '2']
+['1', '2', '1', '1', '2', '2']
+
+['3', '4', '5', '3', '4', '5']
+['3', '4', '5', '3', '5', '4']
+['3', '4', '5', '4', '3', '5']
+['3', '4', '5', '4', '5', '3']
+['3', '4', '5', '5', '3', '4']
+['3', '4', '5', '5', '4', '3']
+['3', '4', '3', '5', '4', '5']
+['3', '4', '3', '5', '5', '4']
+['3', '4', '3', '4', '5', '5']
+['3', '4', '4', '5', '3', '5']
+['3', '4', '4', '5', '5', '3']
+['3', '4', '4', '3', '5', '5']
+['3', '5', '4', '3', '4', '5']
+['3', '5', '4', '3', '5', '4']
+['3', '5', '4', '4', '3', '5']
+['3', '5', '4', '4', '5', '3']
+['3', '5', '4', '5', '3', '4']
+['3', '5', '4', '5', '4', '3']
+['3', '5', '5', '4', '3', '4']
+['3', '5', '5', '4', '4', '3']
+Dataset: 0
+Episode 1occurrences: 164
+Episode 2occurrences: 170
+Episode events: 1993
+Noise events: 5506
+Noise ratio: 0.7342312308307775
+Dataset: 1
+Episode 1occurrences: 171
+Episode 2occurrences: 169
+Episode events: 2030
+Noise events: 5593
+Noise ratio: 0.7337006427915519
+Dataset: 2
+Episode 1occurrences: 165
+Episode 2occurrences: 176
+Episode events: 2034
+Noise events: 5637
+Noise ratio: 0.7348455220962065
+Dataset: 3
+Episode 1occurrences: 159
+Episode 2occurrences: 162
+Episode events: 1914
+Noise events: 5532
+Noise ratio: 0.7429492344883158
+Dataset: 4
+Episode 1occurrences: 177
+Episode 2occurrences: 177
+Episode events: 2112
+Noise events: 5584
+Noise ratio: 0.7255717255717256
+Dataset: 5
+Episode 1occurrences: 174
+Episode 2occurrences: 179
+Episode events: 2106
+Noise events: 5536
+Noise ratio: 0.7244176917037425
+Dataset: 6
+Episode 1occurrences: 175
+Episode 2occurrences: 175
+Episode events: 2091
+Noise events: 5585
+Noise ratio: 0.7275924960917144
+Dataset: 7
+Episode 1occurrences: 163
+Episode 2occurrences: 163
+Episode events: 1944
+Noise events: 5516
+Noise ratio: 0.7394101876675603
+Dataset: 8
+Episode 1occurrences: 185
+Episode 2occurrences: 166
+Episode events: 2097
+Noise events: 5619
+Noise ratio: 0.7282270606531882
+Dataset: 9
+Episode 1occurrences: 204
+Episode 2occurrences: 183
+Episode events: 2310
+Noise events: 5608
+Noise ratio: 0.7082596615306895
+
+
+
+Average episode events: 2063.1
+Average noise events: 5571.6
+Average noise ratio: 0.7299205453425472
+Dataset: 0
+Episode 1occurrences: 178
+Episode 2occurrences: 158
+Episode events: 2004
+Noise events: 11184
+Noise ratio: 0.8480436760691538
+Dataset: 1
+Episode 1occurrences: 159
+Episode 2occurrences: 162
+Episode events: 1914
+Noise events: 11296
+Noise ratio: 0.855109765329296
+Dataset: 2
+Episode 1occurrences: 163
+Episode 2occurrences: 171
+Episode events: 1992
+Noise events: 11040
+Noise ratio: 0.8471454880294659
+Dataset: 3
+Episode 1occurrences: 166
+Episode 2occurrences: 169
+Episode events: 1998
+Noise events: 11005
+Noise ratio: 0.8463431515804045
+Dataset: 4
+Episode 1occurrences: 178
+Episode 2occurrences: 163
+Episode events: 2034
+Noise events: 11346
+Noise ratio: 0.8479820627802691
+Dataset: 5
+Episode 1occurrences: 172
+Episode 2occurrences: 155
+Episode events: 1950
+Noise events: 11219
+Noise ratio: 0.8519249753208292
+Dataset: 6
+Episode 1occurrences: 161
+Episode 2occurrences: 164
+Episode events: 1938
+Noise events: 11112
+Noise ratio: 0.8514942528735632
+Dataset: 7
+Episode 1occurrences: 180
+Episode 2occurrences: 168
+Episode events: 2076
+Noise events: 11397
+Noise ratio: 0.8459140503228679
+Dataset: 8
+Episode 1occurrences: 176
+Episode 2occurrences: 156
+Episode events: 1984
+Noise events: 11182
+Noise ratio: 0.8493088257633298
+Dataset: 9
+Episode 1occurrences: 171
+Episode 2occurrences: 172
+Episode events: 2051
+Noise events: 10973
+Noise ratio: 0.8425214987714987
+
+
+
+Average episode events: 1994.1
+Average noise events: 11175.4
+Average noise ratio: 0.8485787746840678
