@@ -1,0 +1,97 @@
+1,1,2,2,1,2:0>1,0>2,1>3,2>3,1>4,2>4,3>5,4>5
+{(0, 1), (2, 4), (1, 4), (2, 3), (0, 2), (4, 5), (1, 3), (3, 5)}
+3,4,5,3,4,5:0>1,0>2,1>3,1>4,2>5
+{(0, 1), (1, 4), (0, 2), (2, 5), (1, 3)}
+
+['1', '1', '2', '2', '1', '2']
+['1', '1', '2', '1', '2', '2']
+['1', '2', '1', '2', '1', '2']
+['1', '2', '1', '1', '2', '2']
+
+['3', '4', '5', '3', '4', '5']
+['3', '4', '5', '3', '5', '4']
+['3', '4', '5', '4', '3', '5']
+['3', '4', '5', '4', '5', '3']
+['3', '4', '5', '5', '3', '4']
+['3', '4', '5', '5', '4', '3']
+['3', '4', '3', '5', '4', '5']
+['3', '4', '3', '5', '5', '4']
+['3', '4', '3', '4', '5', '5']
+['3', '4', '4', '5', '3', '5']
+['3', '4', '4', '5', '5', '3']
+['3', '4', '4', '3', '5', '5']
+['3', '5', '4', '3', '4', '5']
+['3', '5', '4', '3', '5', '4']
+['3', '5', '4', '4', '3', '5']
+['3', '5', '4', '4', '5', '3']
+['3', '5', '4', '5', '3', '4']
+['3', '5', '4', '5', '4', '3']
+['3', '5', '5', '4', '3', '4']
+['3', '5', '5', '4', '4', '3']
+Dataset: 0
+Episode 1occurrences: 159
+Episode 2occurrences: 175
+Episode events: 1992
+Noise events: 5570
+Noise ratio: 0.73657762496694
+Dataset: 1
+Episode 1occurrences: 161
+Episode 2occurrences: 158
+Episode events: 1902
+Noise events: 5367
+Noise ratio: 0.738340899711102
+Dataset: 2
+Episode 1occurrences: 162
+Episode 2occurrences: 165
+Episode events: 1950
+Noise events: 5682
+Noise ratio: 0.7444968553459119
+Dataset: 3
+Episode 1occurrences: 171
+Episode 2occurrences: 151
+Episode events: 1920
+Noise events: 5686
+Noise ratio: 0.7475677097028661
+Dataset: 4
+Episode 1occurrences: 160
+Episode 2occurrences: 164
+Episode events: 1932
+Noise events: 5502
+Noise ratio: 0.7401129943502824
+Dataset: 5
+Episode 1occurrences: 168
+Episode 2occurrences: 176
+Episode events: 2055
+Noise events: 5490
+Noise ratio: 0.7276341948310139
+Dataset: 6
+Episode 1occurrences: 149
+Episode 2occurrences: 179
+Episode events: 1956
+Noise events: 5425
+Noise ratio: 0.734995258095109
+Dataset: 7
+Episode 1occurrences: 173
+Episode 2occurrences: 166
+Episode events: 2022
+Noise events: 5476
+Noise ratio: 0.7303280874899973
+Dataset: 8
+Episode 1occurrences: 161
+Episode 2occurrences: 145
+Episode events: 1828
+Noise events: 5609
+Noise ratio: 0.754201963157187
+Dataset: 9
+Episode 1occurrences: 160
+Episode 2occurrences: 169
+Episode events: 1966
+Noise events: 5606
+Noise ratio: 0.7403592181722134
+
+
+
+Average episode events: 1952.3
+Average noise events: 5541.3
+Average Event count: 7493.6
+Average noise ratio: 0.7394614805822625
